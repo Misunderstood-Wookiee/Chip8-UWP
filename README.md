@@ -1,9 +1,10 @@
-# UWPChip8
+![chip8](https://github.com/Misunderstood-Wookiee/Chip8-UWP/assets/22002023/e4aefa5a-8dd5-474b-a812-2d210e2c13eb)
 
 Working Chip-8 interpreter / emulator running under the Universal Windows Platform with Win2D
 
 
-#### Description
+#### Description!
+
 
 This project demonstrates the CanvasAnimatedControl update cycle and drawing pixels as rectangles with DrawRectangle as well as picking files with FileOpenPicker.
 
@@ -11,7 +12,6 @@ Pull requests are always welcome.
 
 
 Note that this does not include any Chip-8 ROMs. These can be had from many places, for example : http://www.zophar.net/pdroms/chip8.html
-
 
 #### Keys
 
